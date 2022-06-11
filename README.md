@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vishal1433
+- 👋 Hi, I’m @vishal Mandal
 - 👀 I’m interested in C,C++and Web development
 - 🌱 I’m currently learning Btech in Computer science
 - 💞️ I’m looking to collaborate on ...
